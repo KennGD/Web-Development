@@ -1,0 +1,60 @@
+<style> 
+{}
+body {
+  text-align:center;
+}
+
+.logoHead {
+  height :60px;
+  width :60px;
+  }
+
+.h1a {
+  color:darkblue;
+  }
+.h2a {
+  color:darkblue;
+  }
+
+.email1 {
+  height: 40px;
+  width: 250px;
+  }
+
+.button1 {
+  height: 40px;
+  width: 250px;
+  color: white;
+  background: darkblue;
+  }
+  
+.h41 {
+  color:black;
+  margin-left: 46px;
+  margin-bottom: 5px;
+  text-align: left;
+  }
+.forgot1 {
+  color:blue;
+  text-decoration: none;
+  }
+
+.hr2 {
+  width:300px;
+  }
+
+.h42 {
+  display: inline-block;
+  }
+.newuser1 {
+  display: inline-block;
+  text-decoration: none;
+  color: blue;
+  }
+
+.password1 {
+  height: 40;
+  width: 250;
+  }
+</style>
+
